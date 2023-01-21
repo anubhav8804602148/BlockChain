@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Anubhav Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/compile-solidity": "^6.0.50",
+    "babel": "^6.23.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.1.0",
+    "solc": "^0.8.17",
+    "web3": "^1.8.1"
+  }
+}
